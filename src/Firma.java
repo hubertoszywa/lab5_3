@@ -52,7 +52,7 @@ W innym wypadku otrzymamy błąd Constructor call must be the first statement in
 Po czym dziedziczy klasa, która nie wykorzystuje extends
 
 Każda klasa domyślnie dziedziczy po klasie java.lang.Object (chyba, że zdefiniujesz inną klasę po której dziedziczysz).
-Dzięki tej klasie masz dostęp do zestawu metod, które zdefiniowane są w ciele klasy Object.
+Dzięki tej klasie masz dostęp do zestawu metod, które zdefiniowane są w ciele klasy Object
 Na przykład metoda String toString() ma swoją podstawową implementację w klasie Object1
 
  */
